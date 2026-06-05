@@ -489,17 +489,13 @@ footer h3{
      height: 5px;
      border-radius: 20px;
 }
-    
-
-
-
-    html{
+   html{
   scroll-behavior: auto;
     margin: 0;
   padding: 0;
   width: 100%;  
 }
-
+/* This is for Mobile Responsive */
 @media (max-width: 768px){
 
     .sidebar{
